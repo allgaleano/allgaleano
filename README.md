@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 # Hi 👋, I'm Alberto
-## A Full-Stack Engineer
+### A Full-Stack Engineer
 
 - 🔭 I’m currently studying at **Universidad Politécnica de Madrid**
 
@@ -22,6 +22,5 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **all.galeano.diaz@gmail.com**
 
-![Alberto's GitHub stats](https://github-readme-stats.vercel.app/api?username=allgaleano&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allgaleano)](https://github.com/allgaleano/github-readme-stats)
